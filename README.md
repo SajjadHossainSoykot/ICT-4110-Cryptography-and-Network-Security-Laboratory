@@ -1,27 +1,87 @@
-## License & Disclaimer
+# 🔐 Cryptography and Network Security Laboratory
 
-This project is licensed under the MIT License for all source code.
-
-### Course Information
-
-This repository is developed as part of the course:
+This repository contains practical implementations and laboratory experiments developed as part of the course:
 
 **ICT 4110 – Cryptography and Network Security Laboratory**
 
-The course focuses on practical implementation of core cryptographic concepts, including:
-- Classical and modern encryption techniques  
-- Key exchange algorithms (e.g., Diffie-Hellman)  
-- Symmetric and asymmetric cryptography  
-- Hash functions and digital security principles  
-- Hands-on programming implementation of cryptographic algorithms  
+---
 
-### Academic Disclaimer
+## 📘 Course Overview
 
-This repository is created for educational and academic purposes as part of the above course.
+This course focuses on the hands-on implementation of fundamental and advanced cryptographic techniques. It bridges theoretical concepts with practical programming applications to build a strong foundation in secure communication systems.
 
-- The code and notebooks in this repository were developed by the author with assistance from AI-based tools (including ChatGPT), used for learning and implementation support.
-- The implementations are based on standard cryptography concepts and lab experiment guidelines.
-- Theoretical content and experiment structure are derived from academic lecture materials, textbooks, and lab manuals.
-- All external academic sources remain the intellectual property of their respective authors and publishers.
+### Key Topics Covered
 
-This repository is intended for learning, experimentation, and reference purposes only and is not intended for commercial use.
+- Classical encryption techniques (e.g., Caesar, Vigenère Cipher)
+- Modern cryptographic algorithms
+- Symmetric key cryptography (e.g., AES, DES)
+- Asymmetric key cryptography (e.g., RSA)
+- Key exchange protocols (e.g., Diffie-Hellman)
+- Cryptographic hash functions
+- Digital signatures and authentication
+- Network security principles
+- Practical implementation using Python
+
+---
+
+## 🧪 Repository Contents
+
+This repository includes:
+
+- 📂 Lab experiment implementations  
+- 📓 Jupyter Notebook (`.ipynb`) files  
+- 🧾 Algorithm explanations and theoretical background  
+- 💻 Python code for cryptographic techniques  
+- 📊 Sample outputs and demonstrations  
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute the source code with proper attribution.
+
+---
+
+## ⚠️ Academic Disclaimer
+
+This repository has been created strictly for **educational and academic purposes**.
+
+- All implementations are based on standard cryptographic principles and laboratory guidelines.
+- The project was developed by the author with the assistance of AI-based tools (including ChatGPT) for learning and implementation support.
+- Theoretical explanations and experiment structures are derived from:
+  - Academic lecture materials  
+  - Standard textbooks  
+  - Official lab manuals  
+
+> All external academic resources remain the intellectual property of their respective authors and publishers.
+
+---
+
+## 🚫 Usage Notice
+
+This repository is intended for:
+
+- Learning and experimentation  
+- Academic reference  
+- Skill development in cryptography  
+
+It is **not intended for production or commercial use**, and the implementations may not meet real-world security standards.
+
+---
+
+## 🤝 Acknowledgment
+
+Special acknowledgment to:
+
+- Course instructors and academic resources  
+- Standard cryptography textbooks  
+- AI-assisted tools for guidance and learning support  
+
+---
+
+## 📌 Note
+
+Cryptography is a sensitive field. Always follow ethical guidelines and use these implementations responsibly.
+
+---
