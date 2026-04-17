@@ -155,4 +155,4 @@ Special thanks to:
 ## 📌 Note
 
 Cryptography is a critical component of modern digital security.  
-Use this knowledge responsibly and always follow ethical guidelines.
+Use this knowledge responsibly and always follow ethical guidelines when implementing cryptographic solutions.
