@@ -110,8 +110,17 @@ Activate environment:
 
 ## ⚖️ License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute the code with proper attribution.
+This project is licensed under the **Apache License 2.0.**
+
+You are free to use and modify this code, but you MUST:
+
+* Retain the LICENSE file
+* Retain the NOTICE file
+* Provide proper attribution to the original author
+
+Failure to comply with these terms violates the license.
+If you use this project, please provide visible attribution to the original repository. 
+>https://github.com/SajjadHossainSoykot/ICT-4110-Cryptography-and-Network-Security-Laboratory
 
 ---
 
