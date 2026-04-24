@@ -58,6 +58,8 @@ def decrypt_hill(cipher, key):
 key = [[3, 3], [2, 5]]
 
 plaintext = input("Enter plaintext: ")
+print("Plaintext:", plaintext)
+print("Key Matrix:", key)
 cipher = encrypt_hill(plaintext, key)
 print("Encrypted text:", cipher)
 
