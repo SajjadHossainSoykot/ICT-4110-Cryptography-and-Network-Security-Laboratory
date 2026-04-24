@@ -23,6 +23,9 @@ def decrypt(text, key):
 plaintext = input("Enter plaintext: ")
 key = int(input("Enter key: "))
 
+print("Plaintext:", plaintext)
+print("Key:", key)
+
 cipher = encrypt(plaintext, key)
 print("Encrypted text:", cipher)
 
