@@ -38,6 +38,8 @@ def decrypt_vigenere(cipher, key):
 plaintext = input("Enter plaintext: ")
 keyword = input("Enter keyword: ")
 
+print("Plaintext:", plaintext)
+print("Keyword:", keyword)
 cipher = encrypt_vigenere(plaintext, keyword)
 print("Encrypted text:", cipher)
 
